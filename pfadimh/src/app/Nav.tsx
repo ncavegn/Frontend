@@ -48,7 +48,7 @@ const Nav = () => {
             HOME
           </Link>
         </NavbarItem>
-        <NavbarItem isActive>
+        <NavbarItem>
           <Link
             color="foreground"
             as="a"
